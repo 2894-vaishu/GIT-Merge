@@ -1,3 +1,4 @@
 aaaaaaa
 bbbbbbb
 New line : scccccc
+After ccommitm, new line : njfkln
